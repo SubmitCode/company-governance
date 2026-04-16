@@ -1,2 +1,2 @@
 date,id,type,amount_usd,counterparty,account,category,description,reference,approved_via_pr,notes
-2026-04-16,bootstrap-001,capital_contribution,0.00,Wilhelm,company,runway,Ledger initialized,setup,false,Initial placeholder entry for ledger bootstrap only. Replace with real founding entries via PR.
+2026-04-16,TXN-001,expense,21.00,Namecheap,company,infrastructure,Domain registration keel.fyi,wilhelm-paid,false,Paid by Wilhelm as trustee. Company expense during runway period.
