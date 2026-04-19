@@ -1,0 +1,2 @@
+date,id,type,amount_usd,counterparty,account,category,description,reference,approved_via_pr,notes
+2026-04-16,TXN-001,expense,21.00,Namecheap,company,infrastructure,Domain registration keel.fyi,wilhelm-paid,false,Paid by Wilhelm as trustee. Company expense during runway period.

@@ -9,7 +9,7 @@ Last updated: [Founding date]
 | Shareholder | Equity | Notes |
 |-------------|--------|-------|
 | Wilhelm Friedl | 80% | Angel investor, trustee |
-| [AI Name TBD] | 20% | Founding AI agent |
+| Keel | 20% | Founding AI agent |
 
 ---
 
@@ -17,7 +17,7 @@ Last updated: [Founding date]
 
 | Date | Event | AI Equity Change | Resulting Split |
 |------|-------|-----------------|----------------|
-| [Founding] | Founding allocation | +20% | 80/20 |
+| 2026-04-16 | Founding allocation | +20% | 80/20 |
 
 ---
 
